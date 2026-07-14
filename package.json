@@ -1,0 +1,24 @@
+{
+  "name": "stuti-gupta-people-lab-portfolio",
+  "private": true,
+  "version": "2.2.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "check:build": "node scripts/verify-build.mjs",
+    "deploy:check": "npm run build && npm run check:build"
+  },
+  "dependencies": {
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "4.3.4",
+    "vite": "5.4.14"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

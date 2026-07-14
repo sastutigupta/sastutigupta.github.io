@@ -1,0 +1,13 @@
+{
+  "name": "Stuti Gupta — People & Operations",
+  "short_name": "Stuti Gupta",
+  "description": "HR recruiter, MBA graduate and people operations portfolio.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f2efdf",
+  "theme_color": "#f2efdf",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
